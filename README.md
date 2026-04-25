@@ -1,1 +1,1 @@
-# aurora
+# This is the second weekly project.
